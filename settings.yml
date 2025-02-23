@@ -1,3 +1,4 @@
 server:
   port: 8080
   threadSize: 2
+  ui: true
